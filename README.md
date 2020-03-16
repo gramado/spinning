@@ -1,0 +1,2 @@
+# spinning
+spinning cursor
